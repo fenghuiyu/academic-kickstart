@@ -42,4 +42,4 @@ In August of 2018, I graduated with PhD degree in Financial Mathematics from the
 
 I've been doing research in the [Advanced Modeling and Applied Computing Laboratory at HKU](http://hkumath.hku.hk/~wkc/amacl.htm) with a focus in credit risk modeling and credit derivatives pricing, hidden Markov models, optimal pairs trading strategies, etc.
 
-Please find my [CV](files/cv3.pdf) here.
+Please find my [CV](files/cv.pdf) here.
