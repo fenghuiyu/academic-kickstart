@@ -5,36 +5,41 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 1
 
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Quantitative Methods in Finance and Risk Management",
+    "Stochastic Modeling and Optimal Portfolio Management",
+    "Computational and Data-driven Innovation in Interdisciplinary Science",
+    "Machine Learning and its Application in Finance and Actuarial Science"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Financial Mathematics"
+  institution = "The University of Hong Kong, Hong Kong"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BSc in Mathematics"
+  institution = "Jilin University, China"
+  year = 2014
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Finance & Financial Management"
+  institution = "Jilin University, China"
+  year = 2014
  
 +++
 
-# Biography
+# About me
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm currently a postdoctoral fellow at the [department of Mathematics, the University of Hong Kong](http://www.math.hku.hk). My supervisor is Professor [Wai-Ki Ching](http://hkumath.hku.hk/~wkc/). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+In August of 2018, I graduated with PhD degree in Financial Mathematics from the University of Hong Kong. Previously, I obtained my Bachelor's degrees in [Mathematics](http://math.jlu.edu.cn/index.htm) and [Finance](http://jjxy.jlu.edu.cn/english/Faculty/Dept_of_Finance.htm) respectively from Jilin University, China in July of 2014. 
+
+I've been doing research in the [Advanced Modeling and Applied Computing Laboratory at HKU](http://hkumath.hku.hk/~wkc/amacl.htm) with a focus in credit risk modeling and credit derivatives pricing, hidden Markov models, optimal pairs trading strategies, etc.
+
+Please find my [CV](files/cv3.pdf) here.

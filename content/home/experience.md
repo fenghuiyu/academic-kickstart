@@ -7,11 +7,11 @@ title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 8
+weight = 2
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "September 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -19,27 +19,27 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Postdoctoral Fellow"
+  company = "Dept. of Math, The University of Hong Kong"
+  company_url = "http://www.math.hku.hk"
+  location = "Hong Kong"
+  date_start = "2018-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  #description = """
+  #Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  #* Analysing
+  #* Modelling
+  #* Deploying
+  #"""
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+#[[experience]]
+#  title = "Professor"
+#  company = "University X"
+#  company_url = ""
+#  location = "California"
+#  date_start = "2016-01-01"
+#  date_end = "2016-12-31"
+#  description = """Taught electronic engineering and researched #semiconductor physics."""
 
 +++
