@@ -12,8 +12,8 @@ weight = 1
   interests = [
     "Quantitative Methods in Finance and Risk Management",
     "Stochastic Modeling and Optimal Portfolio Management",
-    "Computational and Data-driven Innovation in Interdisciplinary Science",
-    "Machine Learning and its Application in Finance and Actuarial Science"
+    "Machine Learning and its Application in Finance and Actuarial Science",
+    "Computational and Data-driven Innovation in Interdisciplinary Science"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -40,6 +40,6 @@ I'm currently a postdoctoral fellow at the [department of Mathematics, the Unive
 
 In August of 2018, I graduated with PhD degree in Financial Mathematics from the University of Hong Kong. Previously, I obtained my Bachelor's degrees in [Mathematics](http://math.jlu.edu.cn/index.htm) and [Finance](http://jjxy.jlu.edu.cn/english/Faculty/Dept_of_Finance.htm) respectively from Jilin University, China in July of 2014. 
 
-I've been doing research in the [Advanced Modeling and Applied Computing Laboratory at HKU](http://hkumath.hku.hk/~wkc/amacl.htm) with a focus in credit risk modeling and credit derivatives pricing, hidden Markov models, optimal pairs trading strategies, etc.
+I've been doing research in the [Advanced Modeling and Applied Computing Laboratory at HKU](http://hkumath.hku.hk/~wkc/amacl.htm) with a focus in credit risk modeling and credit derivatives pricing, hidden Markov models, optimal pairs trading strategies and participating policies pricing via neural networks, etc.
 
 Please find my [CV](files/cv3.pdf) here.
