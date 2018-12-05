@@ -23,7 +23,7 @@ weight = 1
   year = 2018
 
 [[education.courses]]
-  course = "BSc in Mathematics"
+  course = "BSc in Computational Mathematics"
   institution = "Jilin University, China"
   year = 2014
 
