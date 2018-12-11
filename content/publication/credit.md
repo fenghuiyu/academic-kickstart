@@ -17,7 +17,7 @@ authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Jia-Wen Gu", "Tak-Kuen Siu"]
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Quantitative Finance"
+publication = "Quantitative Finance, 7(5), 781-794"
 #abstract = "An abstract..."
 url_pdf = "files/Interacting default intensity with a hidden Markov process.pdf"
 url_custom = [{name = "Journal Link", url = "https://www.tandfonline.com/doi/abs/10.1080/14697688.2016.1237036?journalCode=rquf20"}]

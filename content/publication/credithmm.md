@@ -16,7 +16,7 @@ authors = ["**Feng-Hui Yu**", "Jie-Jun Lu", "Jia-Wen Gu", "Wai-Ki Ching"]
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Accepted for publication in Computational Economics"
+publication = "Accepted for publication in Computational Economics, available online"
 #abstract = "An abstract..."
 url_pdf = "files/ModelingCreditRiskWithHMM.pdf"
 url_custom = [{name = "Journal Link", url = "http://link.springer.com/article/10.1007/s10614-018-9869-7"}]
