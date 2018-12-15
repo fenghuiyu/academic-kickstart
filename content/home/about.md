@@ -10,7 +10,7 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Quantitative Methods in Finance and Risk Management",
+    "Quantitative Methods in Finance, Actuarial Sciences and Risk Management",
     "Stochastic Modeling and Optimal Portfolio Management",
     "Applied Probability, Applied Data Science, Machine Learning and its Application",
     "Computational and Data-driven Innovation in Interdisciplinary Science"
