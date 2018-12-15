@@ -12,7 +12,7 @@ weight = 1
   interests = [
     "Quantitative Methods in Finance and Risk Management",
     "Stochastic Modeling and Optimal Portfolio Management",
-    "Machine Learning and its Application in Finance and Actuarial Science",
+    "Applied Probability, Applied Data Science, Machine Learning and its Application",
     "Computational and Data-driven Innovation in Interdisciplinary Science"
   ]
 
