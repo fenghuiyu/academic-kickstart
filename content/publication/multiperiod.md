@@ -1,10 +1,10 @@
 +++
-title = "On Pricing, Hedging and Trading in Financial Management"
-date = 2018-08-16T01:23:04+08:00
+title = "Multi-Period Optimal Mean-reverting Spread Trading Strategies with Hidden Markovian Regime Switching"
+date = 2018-11-20T01:23:04+08:00
 draft = false
-weight = 8
+weight = 7
 
-authors = ["**Feng-Hui Yu**"]
+authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Tak-Kuen Siu"]
 
 # Publication type.
 # Legend:
@@ -15,12 +15,12 @@ authors = ["**Feng-Hui Yu**"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["5"]
+publication_types = ["2"]
 
-publication = "PhD Thesis"
+publication = "In Preparation"
 #abstract = "An abstract..."
 #url_pdf = "files/Interacting default intensity with a hidden Markov process.pdf"
-url_custom = [{name = "Thesis Link", url = "http://hub.hku.hk/handle/10722/263166"}]
+#url_custom = [{name = "Journal Link", url = "https://www.tandfonline.com/doi/abs/10.1080/14697688.2016.1237036?journalCode=rquf20"}]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
