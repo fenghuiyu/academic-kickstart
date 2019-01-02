@@ -11,8 +11,8 @@ weight = 1
 [interests]
   interests = [
     "Quantitative Methods in Finance, Actuarial Sciences and Risk Management",
-    "Stochastic Modeling and Optimal Portfolio Management",
-    "Applied Probability, Applied Data Science, Machine Learning and its Application",
+    "Applied Probability, Stochastic Modeling and Optimal Portfolio Management",
+    "Applied Data Science, Machine Learning and its Application",
     "Computational and Data-driven Innovation in Interdisciplinary Science"
   ]
 
@@ -36,9 +36,9 @@ weight = 1
 
 # About me
 
-I'm currently a postdoctoral fellow at the [department of Mathematics, the University of Hong Kong](http://www.math.hku.hk). My supervisor is Professor [Wai-Ki Ching](http://hkumath.hku.hk/~wkc/). 
+I'm currently a postdoctoral fellow at the [department of Mathematics, the University of Hong Kong](http://www.math.hku.hk).  
 
-In August of 2018, I graduated with PhD degree in Financial Mathematics from the University of Hong Kong. Previously, I obtained my double Bachelor's degrees in [Computational Mathematics](http://math.jlu.edu.cn/index.htm) and [Finance](http://jjxy.jlu.edu.cn/english/Faculty/Dept_of_Finance.htm) respectively from Jilin University, China in July of 2014. 
+In August of 2018, I graduated with PhD degree in Financial Mathematics from the University of Hong Kong under the supervision of Professor [Wai-Ki Ching](http://hkumath.hku.hk/~wkc/). Previously, I obtained my double Bachelor's degrees in [Computational Mathematics](http://math.jlu.edu.cn/index.htm) and [Finance](http://jjxy.jlu.edu.cn/english/Faculty/Dept_of_Finance.htm) respectively from Jilin University, China in July of 2014. 
 
 I've been doing research in the [Advanced Modeling and Applied Computing Laboratory at HKU](http://hkumath.hku.hk/~wkc/amacl.htm) with a focus in credit risk modeling and credit derivatives pricing, hidden Markov models, optimal pairs trading strategies and participating policies pricing via neural networks, etc.
 
