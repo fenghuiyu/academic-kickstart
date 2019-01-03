@@ -40,6 +40,6 @@ I'm currently a postdoctoral fellow at the [department of Mathematics, the Unive
 
 In August of 2018, I graduated with PhD degree in Financial Mathematics from the University of Hong Kong under the supervision of Professor [Wai-Ki Ching](http://hkumath.hku.hk/~wkc/). Previously, I obtained my double Bachelor's degrees in [Computational Mathematics](http://math.jlu.edu.cn/index.htm) and [Finance](http://jjxy.jlu.edu.cn/english/Faculty/Dept_of_Finance.htm) respectively from Jilin University, China in July of 2014. 
 
-I've been doing research in the [Advanced Modeling and Applied Computing Laboratory at HKU](http://hkumath.hku.hk/~wkc/amacl.htm) with a focus in credit risk modeling and credit derivatives pricing, hidden Markov models, optimal pairs trading strategies and participating policies pricing via neural networks, etc.
+I've been doing research in the [Advanced Modeling and Applied Computing Laboratory at HKU](http://hkumath.hku.hk/~wkc/amacl.htm) with a focus in credit risk modeling and credit derivatives pricing, hidden Markov models, optimal pairs trading strategies and participating policies pricing via neural networks, etc. These research draws from the disciplines of probability theory, statistics, data analysis, scientific computing and stochastic differential equations.
 
 Please find my [CV](files/cv.pdf) here.
