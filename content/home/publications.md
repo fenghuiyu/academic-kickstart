@@ -37,4 +37,4 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-More specifically, my completed and current research projects include credit risk modeling and credit derivatives pricing, hidden Markov models, optimal pairs trading strategies and participating policies pricing via neural networks, etc.
+More specifically, my completed and current research projects include credit risk modeling and credit derivatives pricing & hedging, hidden Markov models, optimal pairs trading strategies and participating policies pricing via neural networks (machine learning methods), etc.
