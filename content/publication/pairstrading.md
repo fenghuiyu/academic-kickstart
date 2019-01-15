@@ -1,6 +1,6 @@
 +++
 title = "Optimal Pairs Trading with Dynamic Mean-variance"
-date = 2018-10-23T16:30:41+08:00
+date = 2017-10-23T16:30:41+08:00
 draft = false
 weight = 4
 
