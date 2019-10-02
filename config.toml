@@ -56,17 +56,17 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "The University of Hong Kong", url = "" } ]
+  organizations = [ { name = "ETH Zurich", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "me.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "maggie.yufenghui@gmail.com"
-  address = "Room 320B, Run Run Shaw Building, The University of Hong Kong, Pokfulam road, Hong Kong."
+  address = "HG F 42.1, RiskLab, Department of Mathematics, ETH Zurich, 8092, Zurich, Switzerland."
   office_hours = ""
-  phone = "+852 5986 4324"
-  skype = ""
+  phone = ""
+  skype = "maggie.yufenghui"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
