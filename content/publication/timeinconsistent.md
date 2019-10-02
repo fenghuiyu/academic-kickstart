@@ -1,10 +1,10 @@
 +++
 title = "Optimal Mean-Variance Pairs Trading Strategies"
-date = 2018-05-23T16:43:24+08:00
+date = 2019-05-23T16:43:24+08:00
 draft = false
 weight = 6
 
-authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Jia-Wen Gu", "Tak-Kwong Wong", ]
+authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Jia-Wen Gu", "Chu-Fang Wu", ]
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Jia-Wen Gu", "Tak-Kwong Wong", ]
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "In preparation"
+publication = "Preprint"
 #abstract = "An abstract..."
 
 # Tags and categories

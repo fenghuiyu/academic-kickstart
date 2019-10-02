@@ -37,7 +37,7 @@ weight = 1
 
 # About me
 
-I'm currently a postdoctoral fellow at the [department of Mathematics, the University of Hong Kong](http://www.math.hku.hk).  
+I'm currently a postdoc at [RiskLab, ETH Zurich](https://risklab.ch). Before that, I was a postdoctoral fellow at the [department of Mathematics, the University of Hong Kong](http://www.math.hku.hk).  
 
 In August of 2018, I graduated with PhD degree in Financial Mathematics from the University of Hong Kong under the supervision of Professor [Wai-Ki Ching](http://hkumath.hku.hk/~wkc/). Previously, I obtained my double Bachelor's degrees in [Computational Mathematics](http://math.jlu.edu.cn/index.htm) and [Finance](http://jjxy.jlu.edu.cn/english/Faculty/Dept_of_Finance.htm) respectively from Jilin University, China in July of 2014. 
 

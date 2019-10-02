@@ -1,6 +1,6 @@
 +++
 title = "Pricing Participating Policies Under Hidden Markov Models via Neural Networks"
-date = 2018-11-23T01:23:04+08:00
+date = 2019-11-23T01:23:04+08:00
 draft = false
 weight = 5
 
