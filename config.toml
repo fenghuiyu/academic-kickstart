@@ -9,7 +9,7 @@
 baseurl = "https://fenghuiyu.github.io/"
 
 # Title of your site
-title = "Fenghui Yu - Math, HKU"
+title = "Fenghui Yu - RiskLab, ETH"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -52,11 +52,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Fenghui Yu"
-  role = "Postdoctoral fellow of Financial Mathematics"
+  role = "Postdoc of Financial Mathematics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "ETH Zurich", url = "" } ]
+  organizations = [ { name = "RiskLab, ETH Zurich", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "me.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

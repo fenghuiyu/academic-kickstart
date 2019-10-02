@@ -36,5 +36,5 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-
+ 
 More specifically, my completed and current research projects include credit risk modeling and credit derivatives pricing & hedging, hidden Markov models, optimal pairs trading strategies and participating policies pricing via neural networks (machine learning methods), etc.
