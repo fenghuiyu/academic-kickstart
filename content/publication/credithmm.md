@@ -1,6 +1,6 @@
 +++
 title = "Modeling Credit Risk with Hidden Markov Default Intensity"
-date = 2018-11-20T15:46:10+08:00
+date = 2019-10-13T15:46:10+08:00
 draft = false
 weight = 2
 authors = ["**Feng-Hui Yu**", "Jie-Jun Lu", "Jia-Wen Gu", "Wai-Ki Ching"]
@@ -16,7 +16,7 @@ authors = ["**Feng-Hui Yu**", "Jie-Jun Lu", "Jia-Wen Gu", "Wai-Ki Ching"]
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Accepted for publication in Computational Economics, available online"
+publication = "Computational Economics, 54(3), 1213-1229"
 #abstract = "An abstract..."
 url_pdf = "files/ModelingCreditRiskWithHMM.pdf"
 url_custom = [{name = "Journal Link", url = "http://link.springer.com/article/10.1007/s10614-018-9869-7"}]
