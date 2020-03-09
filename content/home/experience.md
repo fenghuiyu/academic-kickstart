@@ -20,7 +20,7 @@ date = 2016-04-20T00:00:00
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoc"
+  title = "Postdoctoral Researcher"
   company = "RiskLab, ETH Zurich"
   company_url = "https://risklab.ch"
   location = "Zurich, Switzerland"

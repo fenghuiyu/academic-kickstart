@@ -1,6 +1,6 @@
 +++
 title = "On Pricing and Hedging Basket Credit Derivatives with Dependent Structure"
-date = 2018-08-23T16:21:04+08:00
+date = 2019-08-23T16:21:04+08:00
 draft = false
 weight = 3
 
