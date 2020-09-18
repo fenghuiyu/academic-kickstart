@@ -1,6 +1,6 @@
 +++
-title = "On Pricing and Hedging Basket Credit Derivatives with Dependent Structure"
-date = 2019-08-23T16:21:04+08:00
+title = "How correlation risk in basket credit derivatives might be priced and managed?"
+date = 2020-06-08T16:21:04+08:00
 draft = false
 weight = 3
 
@@ -17,8 +17,9 @@ authors = ["Dong-Mei Zhu", "Jia-Wen Gu","**Feng-Hui Yu**", "Wai-Ki Ching",  "Tak
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Revision submitted to IMA Journal of Management Mathematics"
+publication = "IMA Journal of Management Mathematics"
 #abstract = "An abstract..."
+url_custom = [{name = "Journal Link", url = "https://doi.org/10.1093/imaman/dpaa013"}]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
