@@ -32,7 +32,7 @@ date = 2016-04-20T00:00:00
   company = "Dept. of Math, The University of Hong Kong"
   company_url = "http://www.math.hku.hk"
   location = "Hong Kong"
-  date_start = "2018-09-01"
+  date_start = "2019-01-01"
   date_end = "2019-05-31"
   #description = """
   #Responsibilities include:
