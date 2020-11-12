@@ -39,7 +39,7 @@ weight = 1
 
 I'm currently a postdoc at [RiskLab, ETH Zurich](https://risklab.ch). Before that, I was a postdoctoral fellow at the [department of Mathematics, the University of Hong Kong](http://www.math.hku.hk) for a few months where I did research at the [Advanced Modeling and Applied Computing Laboratory](http://hkumath.hku.hk/~wkc/amacl.htm).  
 
-In December of 2018, I graduated with PhD degree in Financial Mathematics from the University of Hong Kong under the supervision of Professor [Wai-Ki Ching](http://hkumath.hku.hk/~wkc/). Previously, I obtained my double Bachelor's degrees in [Computational Mathematics](http://math.jlu.edu.cn/index.htm) and [Finance](http://jjxy.jlu.edu.cn/english/Faculty/Dept_of_Finance.htm) respectively from Jilin University, China in July of 2014. 
+#In December of 2018, I graduated with PhD degree in Financial #Mathematics from the University of Hong Kong under the #supervision of Professor [Wai-Ki Ching](http://hkumath.hku.hk/#~wkc/). Previously, I obtained my double Bachelor's degrees in #[Computational Mathematics](http://math.jlu.edu.cn/index.htm) #and [Finance](http://jjxy.jlu.edu.cn/english/Faculty/#) respectively #from Jilin University, China in July of 2014. 
 
 My research areas include stochastic modeling, mathematical finance and insurance, applied probability, operations research and management science. I have also developed interest in some other areas such as applied data science and statistical learning, etc. 
 
