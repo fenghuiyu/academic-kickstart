@@ -9,7 +9,7 @@
 baseurl = "https://fenghuiyu.github.io/"
 
 # Title of your site
-title = "Fenghui Yu - RiskLab, ETH"
+title = "Fenghui Yu - RiskLab, ETH Zurich"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Fenghui Yu"
-  role = "Postdoc of Financial Mathematics"
+  role = "Postdoc in Financial Mathematics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -62,7 +62,7 @@ enableGitInfo = false
   avatar = "me2.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "maggie.yufenghui@gmail.com"
+  email = "fenghui.yu@math.ethz.ch"
   address = "HG F 42.1, RiskLab, Department of Mathematics, ETH Zurich, 8092, Zurich, Switzerland."
   office_hours = ""
   phone = ""
@@ -106,10 +106,10 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "This is the webpage of Fenghui Yu, postdoctoral researcher at RiskLab, ETH Zurich."
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = ""
+  sharing_image = "eth.jpeg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = ""
@@ -247,7 +247,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:maggie.yufenghui@gmail.com"
+    link = "mailto:fenghui.yu@math.ethz.ch"
 
   [[params.social]]
     icon = "linkedin"

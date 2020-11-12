@@ -19,6 +19,7 @@ publication_types = ["2"]
 
 publication = "IMA Journal of Management Mathematics"
 #abstract = "An abstract..."
+url_pdf = "files/copula.pdf"
 url_custom = [{name = "Journal Link", url = "https://doi.org/10.1093/imaman/dpaa013"}]
 
 # Tags and categories
