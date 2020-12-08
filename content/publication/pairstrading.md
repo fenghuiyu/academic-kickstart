@@ -17,7 +17,7 @@ authors = ["Dong-Mei Zhu", "Jia-Wen Gu","**Feng-Hui Yu**",  "Tak-Kuen Siu", "Wai
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Revision to Mathematical Method of Operations Research"
+publication = "Revision to Mathematical Methods of Operations Research"
 #abstract = "An abstract..."
 
 # Tags and categories
