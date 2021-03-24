@@ -1,10 +1,10 @@
 +++
-title = "Optimal Mean-Variance Pairs Trading Strategies"
-date = 2019-05-23T16:43:24+08:00
+title = "Optimal Pairs Trading Strategies: a stochastic Mean-Variance approach"
+date = 2020-11-23T16:43:24+08:00
 draft = false
 weight = 6
 
-authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Jia-Wen Gu", "Chu-Fang Wu", ]
+authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Chu-Fang Wu", "Jia-Wen Gu", ]
 
 # Publication type.
 # Legend:
