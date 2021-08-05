@@ -1,6 +1,6 @@
 +++
 title = "Optimal Pairs Trading with Dynamic Mean-Variance Objective"
-date = 2020-07-21T16:30:41+08:00
+date = 2021-07-21T16:30:41+08:00
 draft = false
 weight = 4
 
@@ -17,7 +17,7 @@ authors = ["Dong-Mei Zhu", "Jia-Wen Gu","**Feng-Hui Yu**",  "Tak-Kuen Siu", "Wai
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Revision to Mathematical Methods of Operations Research"
+publication = "Mathematical Methods of Operations Research, forthcoming"
 #abstract = "An abstract..."
 
 # Tags and categories
