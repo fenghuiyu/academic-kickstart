@@ -17,6 +17,16 @@ weight = 4
 
 [[experience]]
   title = "Teaching Assistant"
+  company = "RiskLab, ETH Zurich"
+  company_url = "https://risklab.ch/"
+  location = "Zurich, Switzerland"
+  date_start = "2021-02-01"
+  date_end = "2021-05-31"
+  description = """Course: Quantitative Risk Management"""
+  #Responsibilities include:
+
+[[experience]]
+  title = "Teaching Assistant"
   company = "Dept. of Math, The University of Hong Kong"
   company_url = "http://www.math.hku.hk"
   location = "Hong Kong"

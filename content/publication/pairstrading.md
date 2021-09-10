@@ -19,6 +19,8 @@ publication_types = ["2"]
 
 publication = "Mathematical Methods of Operations Research, forthcoming"
 #abstract = "An abstract..."
+url_pdf = "files/Pairs trading.pdf"
+url_custom = [{name = "Journal Link", url = "http://link.springer.com/article/10.1007/s00186-021-00751-z"}]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
