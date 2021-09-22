@@ -17,7 +17,7 @@ authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Tak-Kuen Siu"]
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "In Preparation"
+publication = "Working Paper"
 #abstract = "An abstract..."
 #url_pdf = "files/Interacting default intensity with a hidden Markov process.pdf"
 #url_custom = [{name = "Journal Link", url = "https://www.tandfonline.com/doi/abs/10.1080/14697688.2016.1237036?journalCode=rquf20"}]

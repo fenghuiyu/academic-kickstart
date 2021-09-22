@@ -1,6 +1,6 @@
 +++
 title = "How correlation risk in basket credit derivatives might be priced and managed?"
-date = 2020-06-08T16:21:04+08:00
+date = 2021-04-08T16:21:04+08:00
 draft = false
 weight = 3
 
@@ -17,7 +17,7 @@ authors = ["Dong-Mei Zhu", "Jia-Wen Gu","**Feng-Hui Yu**", "Wai-Ki Ching",  "Tak
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "IMA Journal of Management Mathematics"
+publication = "IMA Journal of Management Mathematics, 32(2), 195-219"
 #abstract = "An abstract..."
 url_pdf = "files/copula.pdf"
 url_custom = [{name = "Journal Link", url = "https://doi.org/10.1093/imaman/dpaa013"}]

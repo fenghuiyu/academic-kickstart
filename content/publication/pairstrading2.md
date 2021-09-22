@@ -1,8 +1,8 @@
 +++
-title = "Optimal Pairs Trading Strategies: a stochastic Mean-Variance approach"
-date = 2020-11-23T16:43:24+08:00
+title = "Optimal Pairs Trading Strategies: a Stochastic Mean-Variance Approach"
+date = 2021-09-16T16:43:24+08:00
 draft = false
-weight = 6
+weight = 1
 
 authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Chu-Fang Wu", "Jia-Wen Gu", ]
 
@@ -17,7 +17,7 @@ authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Chu-Fang Wu", "Jia-Wen Gu", ]
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Preprint"
+publication = "Submitted"
 #abstract = "An abstract..."
 
 # Tags and categories

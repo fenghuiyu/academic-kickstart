@@ -2,7 +2,7 @@
 title = "Pricing Participating Policies Under Hidden Markov Models via Neural Networks"
 date = 2019-03-23T01:23:04+08:00
 draft = false
-weight = 5
+weight = 6
 
 authors = ["Tak-Kuen Siu", "**Feng-Hui Yu**", "Qing-Qing Yang", "Jia-Wen Gu", "Wai-Ki Ching" ]
 

@@ -1,8 +1,8 @@
 +++
 title = "Optimal Pairs Trading with Dynamic Mean-Variance Objective"
-date = 2021-07-21T16:30:41+08:00
+date = 2021-09-16T16:30:41+08:00
 draft = false
-weight = 4
+weight = 2
 
 authors = ["Dong-Mei Zhu", "Jia-Wen Gu","**Feng-Hui Yu**",  "Tak-Kuen Siu", "Wai-Ki Ching"]
 
@@ -17,7 +17,7 @@ authors = ["Dong-Mei Zhu", "Jia-Wen Gu","**Feng-Hui Yu**",  "Tak-Kuen Siu", "Wai
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Mathematical Methods of Operations Research, forthcoming"
+publication = "Mathematical Methods of Operations Research, 94(1), 145-168"
 #abstract = "An abstract..."
 url_pdf = "files/Pairs trading.pdf"
 url_custom = [{name = "Journal Link", url = "http://link.springer.com/article/10.1007/s00186-021-00751-z"}]

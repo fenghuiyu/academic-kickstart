@@ -2,7 +2,7 @@
 title = "Modeling Credit Risk with Hidden Markov Default Intensity"
 date = 2019-10-13T15:46:10+08:00
 draft = false
-weight = 2
+weight = 4
 authors = ["**Feng-Hui Yu**", "Jie-Jun Lu", "Jia-Wen Gu", "Wai-Ki Ching"]
 
 # Publication type.
