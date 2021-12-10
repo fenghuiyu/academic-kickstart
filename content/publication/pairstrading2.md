@@ -19,6 +19,7 @@ publication_types = ["2"]
 
 publication = "Submitted"
 #abstract = "An abstract..."
+url_custom = [{name = "SSRN", url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3977911"}]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
