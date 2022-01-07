@@ -1,6 +1,6 @@
 +++
 title = "Optimal Pairs Trading Strategies: a Stochastic Mean-Variance Approach"
-date = 2021-09-16T16:43:24+08:00
+date = 2021-12-16T16:43:24+08:00
 draft = false
 weight = 1
 
@@ -17,7 +17,7 @@ authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Chu-Fang Wu", "Jia-Wen Gu", ]
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Submitted"
+publication = "Revision, Journal of Optimization Theory and Applications"
 #abstract = "An abstract..."
 url_custom = [{name = "SSRN", url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3977911"}]
 
