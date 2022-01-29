@@ -15,7 +15,7 @@ weight = 1
     "Applied Probability, Stochastic Modeling and Optimal Stochastic Control",   
     #"Credit Risk Management",
     #"Applied Data Science, Machine Learning and its Application",
-    "Machine Learning, Data-driven Innovation and their Applications"
+    "Machine Learning, Data-driven Innovation and their Applications in Finance and Insurance"
   ]
 
 # List your qualifications (such as academic degrees).
