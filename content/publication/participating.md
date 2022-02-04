@@ -1,7 +1,6 @@
 +++
 title = "Pricing Participating Policies Under Hidden Markov Models via Neural Networks"
-#date = 2020-03-23T01:23:04+08:00
-date = false
+date = 2020-03-23T01:23:04+08:00
 draft = false
 weight = 7
 
