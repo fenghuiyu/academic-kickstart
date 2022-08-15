@@ -19,13 +19,22 @@ date = 2016-04-20T00:00:00
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Assistant Professor"
+  company = "Delft Institute of Applied Mathematics, TU Delft"
+  company_url = "https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics"
+  location = "Delft, The Netherlands"
+  date_start = "2022-08-01"
+  date_end = ""
+
 [[experience]]
   title = "Postdoctoral Researcher"
   company = "RiskLab, ETH Zurich"
   company_url = "https://risklab.ch"
   location = "Zurich, Switzerland"
   date_start = "2019-06-01"
-  date_end = ""
+  date_end = "2022-07-31"
 
 [[experience]]
   title = "Postdoctoral Fellow"

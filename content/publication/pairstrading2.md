@@ -1,6 +1,6 @@
 +++
 title = "Optimal Pairs Trading Strategies: a Stochastic Mean-Variance Approach"
-date = 2021-12-16T16:43:24+08:00
+date = 2022-08-10T16:43:24+08:00
 draft = false
 weight = 1
 

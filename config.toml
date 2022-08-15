@@ -9,7 +9,7 @@
 baseurl = "https://fenghuiyu.github.io/"
 
 # Title of your site
-title = "Fenghui Yu - RiskLab, ETH Zurich"
+title = "Fenghui Yu - DIAM, TU Delft"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -52,18 +52,18 @@ enableGitInfo = false
 
   # Your details.
   name = "Fenghui Yu"
-  role = "Postdoc in Mathematical Finance and Insurance"
+  role = "Assistant Professor of Financial Stochastics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "RiskLab, ETH Zurich", url = "" } ]
+  organizations = [ { name = "DIAM, TU Delft", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "me2.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "fenghui.yu@math.ethz.ch"
-  address = "HG F 42.1, RiskLab, Department of Mathematics, ETH Zurich, 8092, Zurich, Switzerland."
+  email = "fenghui.yu@tudelft.nl"
+  address = "HB 7.040, Building 36, Delft Institute of Applied Mathematics, TU Delft, Mekelweg 4, 2628 CD Delft, The Netherlands."
   office_hours = ""
   phone = ""
   skype = "maggie.yufenghui"
@@ -106,10 +106,10 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = "This is the webpage of Fenghui Yu, postdoctoral researcher at RiskLab, ETH Zurich."
+  description = "This is the webpage of Fenghui Yu, assistant professor of Financial Stochastics at TU Delft."
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = "eth.jpeg"
+  sharing_image = "TUDelft_logo_rgb.png"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = ""
@@ -247,7 +247,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:fenghui.yu@math.ethz.ch"
+    link = "mailto:fenghui.yu@tudelft.nl"
 
   [[params.social]]
     icon = "linkedin"

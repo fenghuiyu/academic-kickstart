@@ -21,7 +21,7 @@ weight = 4
   company_url = "https://risklab.ch/"
   location = "Zurich, Switzerland"
   date_start = "2021-02-01"
-  date_end = "2021-05-31"
+  date_end = "2022-05-31"
   description = """Course: Quantitative Risk Management"""
   #Responsibilities include:
 
