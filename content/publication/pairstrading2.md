@@ -17,7 +17,7 @@ authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Chu-Fang Wu", "Jia-Wen Gu", ]
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Revision, Journal of Optimization Theory and Applications"
+publication = "Forthcoming, Journal of Optimization Theory and Applications"
 #abstract = "An abstract..."
 url_custom = [{name = "SSRN", url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3977911"}]
 
