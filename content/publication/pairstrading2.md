@@ -17,9 +17,10 @@ authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Chu-Fang Wu", "Jia-Wen Gu", ]
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Forthcoming, Journal of Optimization Theory and Applications"
+publication = "Journal of Optimization Theory and Applications, 196, 36–55, 2023"
 #abstract = "An abstract..."
-url_custom = [{name = "SSRN", url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3977911"}]
+url_pdf = "files/pairstrading2.pdf"
+url_custom = [{name = "Journal Link", url = "https://doi.org/10.1007/s10957-022-02131-x"}]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

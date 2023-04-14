@@ -16,6 +16,16 @@ subtitle = "All of the courses are given in English"
 weight = 4
 
 [[experience]]
+  title = "Lecturer"
+  company = "DIAM, TU Delft"
+  company_url = "https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics"
+  location = "Delft, the Netherlands"
+  date_start = "2023-04-01"
+  date_end = "2023-06-31"
+  description = """Special Topics in Financial Engineering (Machine Learning in Finance)"""
+  #Responsibilities include:
+
+[[experience]]
   title = "Teaching Assistant"
   company = "RiskLab, ETH Zurich"
   company_url = "https://risklab.ch/"
