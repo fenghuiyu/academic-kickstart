@@ -1,6 +1,6 @@
 +++
 title = "Optimal Pairs Trading Strategies: a Stochastic Mean-Variance Approach"
-date = 2022-08-10T16:43:24+08:00
+date = 2023-02-10T16:43:24+08:00
 draft = false
 weight = 1
 
@@ -17,7 +17,7 @@ authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Chu-Fang Wu", "Jia-Wen Gu", ]
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Journal of Optimization Theory and Applications, 196, 36–55, 2023"
+publication = "Journal of Optimization Theory and Applications, 196, 36–55"
 #abstract = "An abstract..."
 url_pdf = "files/pairstrading2.pdf"
 url_custom = [{name = "Journal Link", url = "https://doi.org/10.1007/s10957-022-02131-x"}]

@@ -17,12 +17,12 @@ weight = 4
 
 [[experience]]
   title = "Lecturer"
-  company = "DIAM, TU Delft"
-  company_url = "https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics"
-  location = "Delft, the Netherlands"
+  company = "Special Topics in Financial Engineering (Machine Learning in Finance)"
+  company_url = "https://brightspace.tudelft.nl/d2l/home/501859"
+  location = "DIAM, TU Delft"
   date_start = "2023-04-01"
-  date_end = "2023-06-31"
-  description = """Special Topics in Financial Engineering (Machine Learning in Finance)"""
+  date_end = ""
+  #description = """Course: Special Topics in Financial Engineering (Machine Learning in Finance)"""
   #Responsibilities include:
 
 [[experience]]
