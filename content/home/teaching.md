@@ -27,42 +27,42 @@ weight = 4
 
 [[experience]]
   title = "Teaching Assistant"
-  company = "RiskLab, ETH Zurich"
-  company_url = "https://risklab.ch/"
-  location = "Zurich, Switzerland"
+  company = "Quantitative Risk Management"
+  #company_url = "https://risklab.ch/"
+  location = "RiskLab, ETH Zurich"
   date_start = "2021-02-01"
   date_end = "2022-05-31"
-  description = """Course: Quantitative Risk Management"""
+  #description = """Course: Quantitative Risk Management"""
   #Responsibilities include:
 
 [[experience]]
   title = "Teaching Assistant"
-  company = "Dept. of Math, The University of Hong Kong"
-  company_url = "http://www.math.hku.hk"
-  location = "Hong Kong"
+  company = "Discrete Mathematics"
+  #company_url = "http://www.math.hku.hk"
+  location = "Dept. of Math, The University of Hong Kong"
   date_start = "2017-09-01"
   date_end = "2017-12-01"
-  description = """Course: MATH 3600 Discrete Mathematics"""
+  #description = """Course: MATH 3600 Discrete Mathematics"""
   #Responsibilities include:
   
 [[experience]]
   title = "Teaching Assistant"
-  company = "Dept. of Math, The University of Hong Kong"
-  company_url = "http://www.math.hku.hk"
-  location = "Hong Kong"
+  company = "University Mathematics I"
+  #company_url = "http://www.math.hku.hk"
+  location = "Dept. of Math, The University of Hong Kong"
   date_start = "2015-09-01"
   date_end = "2017-12-01"
-  description = """Course: MATH 1011 University Mathematics I"""
+  #description = """Course: MATH 1011 University Mathematics I"""
   #Responsibilities include:
   
 [[experience]]
   title = "Teaching Assistant"
-  company = "Dept. of Math, The University of Hong Kong"
-  company_url = "http://www.math.hku.hk"
-  location = "Hong Kong"
+  company = "Computational Methods and Differential Equations with Applications"
+  #company_url = "http://www.math.hku.hk"
+  location = "Dept. of Math, The University of Hong Kong"
   date_start = "2015-01-01"
   date_end = "2015-05-01"
-  description = """Course: MATH 3408 Computational Methods and Differential Equations with Applications"""
+  #description = """Course: MATH 3408 Computational Methods and Differential Equations with Applications"""
   #Responsibilities include:    
   
   #This is an example of using the *custom* widget to create your own #homepage section.
