@@ -24,6 +24,16 @@ weight = 4
   date_end = ""
   #description = """Course: Special Topics in Financial Engineering (Machine Learning in Finance)"""
   #Responsibilities include:
+  
+  [[experience]]
+  title = "Lecturer"
+  company = "Quantitative Risk Management"
+  company_url = "https://brightspace.tudelft.nl/d2l/home/508178"
+  location = "DIAM, TU Delft"
+  date_start = "2023-04-01"
+  date_end = ""
+  #description = """Course: Quantitative Risk Management"""
+  #Responsibilities include:
 
 [[experience]]
   title = "Teaching Assistant"
