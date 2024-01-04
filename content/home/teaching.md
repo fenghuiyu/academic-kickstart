@@ -21,7 +21,7 @@ weight = 4
   company_url = "https://brightspace.tudelft.nl/d2l/home/501859"
   location = "DIAM, TU Delft"
   date_start = "2023-04-01"
-  date_end = ""
+  date_end = "2023-07-01"
   #description = """Course: Special Topics in Financial Engineering (Machine Learning in Finance)"""
   #Responsibilities include:
   
@@ -31,7 +31,7 @@ weight = 4
   company_url = "https://brightspace.tudelft.nl/d2l/home/508178"
   location = "DIAM, TU Delft"
   date_start = "2023-04-01"
-  date_end = ""
+  date_end = "2023-07-01"
   #description = """Course: Quantitative Risk Management"""
   #Responsibilities include:
 

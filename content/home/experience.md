@@ -21,12 +21,20 @@ date = 2016-04-20T00:00:00
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Assistant Professor"
+  title = "Assistant Professor (tenured)"
+  company = "Delft Institute of Applied Mathematics, TU Delft"
+  company_url = "https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics"
+  location = "Delft, The Netherlands"
+  date_start = "2023-10-15"
+  date_end = ""
+  
+ [[experience]]
+  title = "Assistant Professor (tenure-track)"
   company = "Delft Institute of Applied Mathematics, TU Delft"
   company_url = "https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics"
   location = "Delft, The Netherlands"
   date_start = "2022-08-01"
-  date_end = ""
+  date_end = "2023-10-14" 
 
 [[experience]]
   title = "Postdoctoral Researcher"
