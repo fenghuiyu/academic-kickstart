@@ -38,7 +38,7 @@ weight = 1
 
 # About me
 
-I'm currently an assistant professor (tenured) of Financial Stochastics in the group of [Applied Probability](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics/applied-probability) at the [Delft Institute of Applied Mathematics, TU Delft](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics). Before joining TU Delft, I was a postdoctoral researcher at [RiskLab](https://risklab.ch), [Mathematics Dept. of ETH Zurich](https://math.ethz.ch). I was also an IMR postdoctoral fellow at the [Mathematics Dept. of the University of Hong Kong](http://www.math.hku.hk) for a few months where I did research at the [Advanced Modeling and Applied Computing Laboratory](http://hkumath.hku.hk/~wkc/amacl.htm).  
+I'm currently a (tenured) assistant professor of Financial Stochastics in the group of [Applied Probability](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics/applied-probability) at the [Delft Institute of Applied Mathematics, TU Delft](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics). Before joining TU Delft, I was a postdoctoral researcher at [RiskLab](https://risklab.ch), [Mathematics Dept. of ETH Zurich](https://math.ethz.ch). I was also an IMR postdoctoral fellow at the [Mathematics Dept. of the University of Hong Kong](http://www.math.hku.hk) for a few months where I did research at the [Advanced Modeling and Applied Computing Laboratory](http://hkumath.hku.hk/~wkc/amacl.htm).  
 
 <!--
 In December of 2018, I graduated with PhD degree in Financial Mathematics from the University of Hong Kong under the supervision of Professor [Wai-Ki Ching](http://hkumath.hku.hk/~wkc/). Previously, I obtained my double Bachelor's degrees in [Computational Mathematics](http://math.jlu.edu.cn/index.htm) and [Finance](http://jjxy.jlu.edu.cn/english/Faculty/#) respectively from Jilin University, China in July of 2014. 
@@ -48,4 +48,4 @@ My research areas include stochastic modeling, mathematical finance and insuranc
 
 Please find my [CV](files/cv.pdf) here.
 
-A story of me published by the [journal of Royal Dutch Mathematical Society](https://www.nieuwarchief.nl/serie5/toonnummer.php?deel=24&nummer=3&taal=1) can be found [here](files/mystory.pdf).
+A story about me published by the [journal of Royal Dutch Mathematical Society](https://www.nieuwarchief.nl/serie5/toonnummer.php?deel=24&nummer=3&taal=1) can be found [here](files/mystory.pdf).
