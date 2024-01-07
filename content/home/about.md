@@ -48,4 +48,4 @@ My research areas include stochastic modeling, mathematical finance and insuranc
 
 Please find my [CV](files/cv.pdf) here.
 
-A story about me published by the [journal of Royal Dutch Mathematical Society](https://www.nieuwarchief.nl/serie5/toonnummer.php?deel=24&nummer=3&taal=1) can be found [here](files/mystory.pdf).
+# A story about me published by the [journal of Royal Dutch Mathematical Society](https://www.nieuwarchief.nl/serie5/toonnummer.php?deel=24&nummer=3&taal=1) can be found [here](files/mystory.pdf).
