@@ -2,7 +2,7 @@
 title = "Interacting default intensity with a hidden Markov process"
 date = 2017-02-23T01:23:04+08:00
 draft = false
-weight = 5
+weight = 6
 
 authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Jia-Wen Gu", "Tak-Kuen Siu"]
 

@@ -1,10 +1,10 @@
 +++
-title = "Optimal Pairs Trading Strategies: a Stochastic Mean-Variance Approach"
-date = 2023-02-10T16:43:24+08:00
+title = "Fill Probabilities in a Limit Order Book with State-Dependent Stochastic Order Flows"
+date = 2024-03-01T16:43:24+08:00
 draft = false
-weight = 2
+weight = 1
 
-authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Chu-Fang Wu", "Jia-Wen Gu", ]
+authors = [''Felix Lokin'', "**Fenghui Yu**", ]
 
 # Publication type.
 # Legend:
@@ -17,10 +17,10 @@ authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Chu-Fang Wu", "Jia-Wen Gu", ]
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Journal of Optimization Theory and Applications, 196, 36–55"
+publication = "Preprint"
 #abstract = "An abstract..."
-url_pdf = "files/pairstrading2.pdf"
-url_custom = [{name = "Journal Link", url = "https://doi.org/10.1007/s10957-022-02131-x"}]
+#url_pdf = "files/pairstrading2.pdf"
+url_custom = [{name = "arxiv", url = "https://arxiv.org/abs/2403.02572"}]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

@@ -1,8 +1,8 @@
 +++
 title = "Optimal Convergence Trading Strategies with Cutting Loss Exit"
-date = 2021-12-01T01:23:04+08:00
+date = 2022-12-01T01:23:04+08:00
 draft = false
-weight = 6
+weight = 7
 
 authors = ["**Feng-Hui Yu**"]
 

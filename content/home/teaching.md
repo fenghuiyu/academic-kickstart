@@ -15,6 +15,26 @@ subtitle = "All of the courses are given in English"
 # Order that this section will appear in.
 weight = 4
 
+ [[experience]]
+  title = "Lecturer"
+  company = "Quantitative Risk Management"
+  company_url = "https://brightspace.tudelft.nl/d2l/home/598467"
+  location = "DIAM, TU Delft"
+  date_start = "2024-04-01"
+  date_end = "2024-07-01"
+  #description = """Course: Quantitative Risk Management"""
+  #Responsibilities include:
+
+[[experience]]
+  title = "Lecturer"
+  company = "Special Topics in Financial Engineering (Machine Learning in Finance)"
+  company_url = "https://brightspace.tudelft.nl/d2l/home/598441"
+  location = "DIAM, TU Delft"
+  date_start = "2024-02-01"
+  date_end = "2024-07-01"
+  #description = """Course: Special Topics in Financial Engineering (Machine Learning in Finance)"""
+  #Responsibilities include:
+
 [[experience]]
   title = "Lecturer"
   company = "Special Topics in Financial Engineering (Machine Learning in Finance)"
