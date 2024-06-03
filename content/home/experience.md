@@ -45,7 +45,7 @@ date = 2016-04-20T00:00:00
   date_end = "2022-07-31"
 
 [[experience]]
-  title = "Postdoctoral Fellow"
+  title = "IMR Postdoctoral Fellow"
   company = "Dept. of Math, The University of Hong Kong"
   company_url = "http://www.math.hku.hk"
   location = "Hong Kong"
