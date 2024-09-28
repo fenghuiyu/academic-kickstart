@@ -102,8 +102,8 @@ enableGitInfo = false
   color_theme = "ocean"
 
   # Font style.
-  #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  #   Choose from `default`, `classic`, `myfont', or `playfair`.
+  font = "myfont"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = "This is the webpage of Fenghui Yu, assistant professor of Financial Stochastics at TU Delft."
