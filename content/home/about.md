@@ -37,7 +37,7 @@ weight = 1
  
 +++
 
-# About me
+<!--# About me-->
 
 I'm currently a (tenured) assistant professor of Stochastic and Mathematical Finance in the group of [Applied Probability](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics/applied-probability) at the [Delft Institute of Applied Mathematics, TU Delft](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics). Before joining TU Delft, I was a postdoctoral researcher at [RiskLab](https://risklab.ch), [Mathematics Dept. of ETH Zurich](https://math.ethz.ch). I was also an IMR postdoctoral fellow at the [Mathematics Dept. of the University of Hong Kong](http://www.math.hku.hk) for a few months where I did research at the [Advanced Modeling and Applied Computing Laboratory](http://hkumath.hku.hk/~wkc/amacl.htm).  
 
