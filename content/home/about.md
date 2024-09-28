@@ -19,15 +19,15 @@ weight = 1
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Financial Mathematics"
-  institution = "The University of Hong Kong, Hong Kong"
-  year = 2018
+#[[education.courses]]
+#  course = "PhD in Financial Mathematics"
+#  institution = "The University of Hong Kong, Hong Kong"
+#  year = 2018
 
-[[education.courses]]
-  course = "BSc in Computational Mathematics; BEcon in Finance & Financial Management"
-  institution = "Jilin University, China"
-  year = 2014
+#[[education.courses]]
+#  course = "BSc in Computational Mathematics; BEcon in Finance & Financial Management"
+#  institution = "Jilin University, China"
+#  year = 2014
 
 #[[education.courses]]
 #  course = "BEcon in Finance & Financial Management"
