@@ -12,7 +12,7 @@ subtitle = "Journal Articles"
 weight = 3
 
 # Number of publications to list.
-count = 10
+count = 20
 
 # List format.
 #   0 = Simple
@@ -37,4 +37,4 @@ publication_type = "-1"
 exclude_selected = false
 +++
  
-More specifically, my current and completed research projects include optimal pairs trading strategies, time-consistent stochastic optimal control, hidden Markov models, credit risk modeling and credit derivatives pricing & hedging, and participating policies pricing via neural networks, etc.
+My recent research projects include algorithmic optimal executions, limit order book modeling, optimal pairs trading strategies, time-consistent stochastic optimal control, hidden Markov models, credit risk modeling and credit derivatives pricing & hedging, etc.

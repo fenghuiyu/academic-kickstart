@@ -15,6 +15,13 @@ menu_text = "#34495e"
 menu_text_active = "#588baf"
 menu_title = "#183a4f"
 
+#menu_primary = "#f7f7f7"
+#menu_text = "#34495e"
+#menu_text_active = "#588baf"
+#menu_title = "#34495e"
+
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
+#home_section_even = "rgb(255, 255, 255)"
+#home_section_odd = "rgb(247,247,247)"
