@@ -1,9 +1,10 @@
 +++
-title = "Modeling Credit Risk with Hidden Markov Default Intensity"
-date = 2019-10-13T15:46:10+08:00
+title = "Fill Probabilities in a Limit Order Book with State-Dependent Stochastic Order Flows"
+date = 2025-10-15T16:43:24+08:00
 draft = false
-weight = 6
-authors = ["**Feng-Hui Yu**", "Jie-Jun Lu", "Jia-Wen Gu", "Wai-Ki Ching"]
+weight = 2
+
+authors = [ "Junhong Dai", "Yue Cui", "**Fenghui Yu**", "Chao Huang", "Panshuo Li"]
 
 # Publication type.
 # Legend:
@@ -16,10 +17,10 @@ authors = ["**Feng-Hui Yu**", "Jie-Jun Lu", "Jia-Wen Gu", "Wai-Ki Ching"]
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Computational Economics, 54(3), 1213-1229"
+publication = "Preprint"
 #abstract = "An abstract..."
-url_pdf = "files/ModelingCreditRiskWithHMM.pdf"
-url_custom = [{name = "Journal Link", url = "http://link.springer.com/article/10.1007/s10614-018-9869-7"}]
+#url_pdf = "files/pairstrading2.pdf"
+#url_custom = [{name = "arxiv", url = "https://arxiv.org/abs/2403.02572"}]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

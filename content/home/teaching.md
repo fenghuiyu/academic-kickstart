@@ -15,6 +15,26 @@ subtitle = "All of the courses were given in English"
 # Order that this section will appear in.
 weight = 4
 
+[[experience]]
+  title = "Lecturer"
+  company = "Financial Mathematics"
+  company_url = "https://brightspace.tudelft.nl/d2l/home/775993"
+  location = "DIAM, TU Delft"
+  date_start = "2026-02-01"
+  date_end = "2026-07-01"
+  #description = """Financial Mathematics"""
+  #Responsibilities include:
+  
+  [[experience]]
+  title = "Lecturer"
+  company = "Summer School of the Dutch Sequential Decision-Making Community"
+  company_url = "https://www.lnmb.nl/"
+  location = "Landelijk Netwerk Mathematische Besliskunde (LNMB))- Eurandom"
+  date_start = "2025-08-27"
+  date_end = "2025-08-29"
+  description = """Foundations of Stochastic Optimal Control and Connections to Reinforcement Learning and Applications in Finance – From Stochastic Control to Algorithmic Trading"""
+  #Responsibilities include:
+
  [[experience]]
   title = "Lecturer"
   company = "Quantitative Risk Management"

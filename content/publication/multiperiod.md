@@ -2,7 +2,7 @@
 title = "Multi-Period Optimal Mean-reverting Spread Trading Strategies with Hidden Markovian Regime Switching"
 date = 2019-03-20T01:23:04+08:00
 draft = false
-weight = 9
+weight = 10
 
 authors = ["**Feng-Hui Yu**", "Wai-Ki Ching"]
 

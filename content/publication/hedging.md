@@ -2,7 +2,7 @@
 title = "How correlation risk in basket credit derivatives might be priced and managed?"
 date = 2021-04-08T16:21:04+08:00
 draft = false
-weight = 4
+weight = 5
 
 authors = ["Dong-Mei Zhu", "Jia-Wen Gu","**Feng-Hui Yu**", "Wai-Ki Ching",  "Tak-Kuen Siu"]
 

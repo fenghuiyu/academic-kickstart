@@ -2,7 +2,7 @@
 title = "On Pricing, Hedging and Trading in Financial Management"
 date = 2018-08-16T01:23:04+08:00
 draft = false
-weight = 10
+weight = 11
 
 authors = ["**Feng-Hui Yu**"]
 
