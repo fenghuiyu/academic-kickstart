@@ -1,10 +1,10 @@
 +++
-title = "Reinforcement Learning-based Hierarchical Planning for Multi-Vehicle Coordination in Mixed Unsignalized Intersections"
-date = 2025-10-15T16:43:24+08:00
+title = "Fill Probabilities in a Limit Order Book with State-Dependent Stochastic Order Flows"
+date = 2026-05-22T16:43:24+08:00
 draft = false
-weight = 3
+weight = 1
 
-authors = [ "Junhong Dai", "Yue Cui", "**Fenghui Yu**", "Chao Huang", "Panshuo Li"]
+authors = [ "**Fenghui Yu**", ]
 
 # Publication type.
 # Legend:
@@ -20,7 +20,7 @@ publication_types = ["2"]
 publication = "Preprint"
 #abstract = "An abstract..."
 #url_pdf = "files/pairstrading2.pdf"
-#url_custom = [{name = "arxiv", url = "https://arxiv.org/abs/2403.02572"}]
+url_custom = [{name = "arxiv", url = "https://arxiv.org/abs/2605.24242"}]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
