@@ -35,7 +35,7 @@ publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
-#+++
++++
  <!--
 My recent research projects include algorithmic optimal executions, limit order book modeling, optimal pairs trading strategies, time-consistent stochastic optimal control, hidden Markov models, credit risk modeling and credit derivatives pricing & hedging, etc.
 -->
