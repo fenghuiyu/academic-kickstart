@@ -8,14 +8,14 @@ date = 2016-04-20T00:00:00
 weight = 1
 
 # List your academic interests.
-[interests]
-  interests = [
-   "Quantitative Methods in Finance, Algorithmic Trading and Market Microstructure",
+#[interests]
+ # interests = [
+  # "Quantitative Methods in Finance, Algorithmic Trading and Market Microstructure",
     #"Quantitative Methods in Risk Management, Finance and Actuarial Science",
-    "Applied Probability, Stochastic Modeling and Stochastic Optimal Control",   
+ #   "Applied Probability, Stochastic Modeling and Stochastic Optimal Control",   
     #"Credit Risk Management",
     #"Applied Data Science, Machine Learning and its Application",
-    "Machine Learning, Data-driven Innovation and their Applications in Finance"
+#    "Machine Learning, Data-driven Innovation and their Applications in Finance"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -40,9 +40,14 @@ weight = 1
 <!--# About me-->
 <br>
 <br>
-I'm currently an assistant professor of Stochastic and Mathematical Finance in the group of [Applied Probability](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics/applied-probability) at the [Delft Institute of Applied Mathematics, TU Delft](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics). I am also an associate faculty at [ELLIS Unit Delft](https://www.tudelft.nl/en/ellis-delft-unit). 
+I'm currently an assistant professor of Stochastic and Mathematical Finance in the group of [Applied Probability](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics/applied-probability) at the [Delft Institute of Applied Mathematics, TU Delft](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics). I am also an associate faculty at [European Laboratory for Learning and Intelligent Systems (ELLIS) Unit Delft](https://www.tudelft.nl/en/ellis-delft-unit). 
 
 Before joining TU Delft, I was a postdoctoral researcher at [RiskLab](https://risklab.ch), [Mathematics Dept. of ETH Zurich](https://math.ethz.ch). I was also an IMR postdoctoral fellow at the [Mathematics Dept. of the University of Hong Kong](http://www.math.hku.hk) for a few months where I worked at the [Advanced Modeling and Applied Computing Laboratory](http://hkumath.hku.hk/~wkc/amacl.htm). I completed my PhD in Mathematical Finance at the University of Hong Kong.
+
+My research interests lie in mathematical finance, stochastic control, and machine learning. My current research, some in collaboration with computer scientists, engineers, and industry partners, focuses on topics including: 
+- Market microstructure, including limit order books, optimal execution, and market making; 
+- Stochastic optimal control and its applications to financial decision-making problems;
+- Reinforcement learning, with a focus on theoretical methods and applications in finance and engineering.
 
 <!--
 In December of 2018, I graduated with PhD degree in Financial Mathematics from the University of Hong Kong under the supervision of Professor [Wai-Ki Ching](http://hkumath.hku.hk/~wkc/). Previously, I obtained my double Bachelor's degrees in [Computational Mathematics](http://math.jlu.edu.cn/index.htm) and [Finance](http://jjxy.jlu.edu.cn/english/Faculty/#) respectively from Jilin University, China in July of 2014. 
