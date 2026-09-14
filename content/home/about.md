@@ -42,7 +42,7 @@ weight = 1
 <br>
 I'm currently an assistant professor of Stochastic and Mathematical Finance in the group of [Applied Probability](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics/applied-probability) at the [Delft Institute of Applied Mathematics, TU Delft](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics). I am also an associate faculty at [ELLIS Unit Delft](https://www.tudelft.nl/en/ellis-delft-unit). 
 
-Before joining TU Delft, I was a postdoctoral researcher at [RiskLab](https://risklab.ch), [Mathematics Dept. of ETH Zurich](https://math.ethz.ch). I was also an IMR postdoctoral fellow at the [Mathematics Dept. of the University of Hong Kong](http://www.math.hku.hk) for a few months where I worked at the [Advanced Modeling and Applied Computing Laboratory](http://hkumath.hku.hk/~wkc/amacl.htm).  
+Before joining TU Delft, I was a postdoctoral researcher at [RiskLab](https://risklab.ch), [Mathematics Dept. of ETH Zurich](https://math.ethz.ch). I was also an IMR postdoctoral fellow at the [Mathematics Dept. of the University of Hong Kong](http://www.math.hku.hk) for a few months where I worked at the [Advanced Modeling and Applied Computing Laboratory](http://hkumath.hku.hk/~wkc/amacl.htm). I completed my PhD in Mathematical Finance at the University of Hong Kong.
 
 <!--
 In December of 2018, I graduated with PhD degree in Financial Mathematics from the University of Hong Kong under the supervision of Professor [Wai-Ki Ching](http://hkumath.hku.hk/~wkc/). Previously, I obtained my double Bachelor's degrees in [Computational Mathematics](http://math.jlu.edu.cn/index.htm) and [Finance](http://jjxy.jlu.edu.cn/english/Faculty/#) respectively from Jilin University, China in July of 2014. 
