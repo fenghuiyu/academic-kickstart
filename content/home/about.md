@@ -16,7 +16,7 @@ weight = 1
     #"Credit Risk Management",
     #"Applied Data Science, Machine Learning and its Application",
 #    "Machine Learning, Data-driven Innovation and their Applications in Finance"
-  ]
+ # ]
 
 # List your qualifications (such as academic degrees).
 #[[education.courses]]
