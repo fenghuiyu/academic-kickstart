@@ -45,6 +45,7 @@ I'm currently an assistant professor of Stochastic and Mathematical Finance in t
 Before joining TU Delft, I was a postdoctoral researcher at [RiskLab](https://risklab.ch), [Mathematics Dept. of ETH Zurich](https://math.ethz.ch). I was also an IMR postdoctoral fellow at the [Mathematics Dept. of the University of Hong Kong](http://www.math.hku.hk) for a few months where I worked at the [Advanced Modeling and Applied Computing Laboratory](http://hkumath.hku.hk/~wkc/amacl.htm). I completed my PhD in Mathematical Finance at the University of Hong Kong.
 
 My research interests lie in mathematical finance, stochastic control, and machine learning. My current research, some in collaboration with computer scientists, engineers, and industry partners, focuses on topics including: 
+
 - Market microstructure, including limit order books, optimal execution, and market making; 
 - Stochastic optimal control and its applications to financial decision-making problems;
 - Reinforcement learning, with a focus on theoretical methods and applications in finance and engineering.
