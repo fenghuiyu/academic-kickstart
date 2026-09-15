@@ -4,7 +4,7 @@ date = 2025-10-15T16:43:24+08:00
 draft = false
 weight = 3
 
-authors = [ "Junhong Dai", "Yue Cui", ''Fenghui Yu'', "Chao Huang", "Panshuo Li"]
+authors = ["Junhong Dai", "Yue Cui", "Fenghui Yu", "Chao Huang", "Panshuo Li"]
 
 # Publication type.
 # Legend:
