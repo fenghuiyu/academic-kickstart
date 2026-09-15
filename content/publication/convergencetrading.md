@@ -4,7 +4,7 @@ date = 2022-12-01T01:23:04+08:00
 draft = false
 weight = 9
 
-authors = ["**Feng-Hui Yu**"]
+authors = ["Fenghui Yu"]
 
 # Publication type.
 # Legend:

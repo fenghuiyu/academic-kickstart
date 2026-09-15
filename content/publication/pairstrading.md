@@ -4,7 +4,7 @@ date = 2021-09-16T16:30:41+08:00
 draft = false
 weight = 5
 
-authors = ["Dong-Mei Zhu", "Jia-Wen Gu","**Feng-Hui Yu**",  "Tak-Kuen Siu", "Wai-Ki Ching"]
+authors = ["Dong-Mei Zhu", "Jia-Wen Gu","Feng-Hui Yu",  "Tak-Kuen Siu", "Wai-Ki Ching"]
 
 # Publication type.
 # Legend:

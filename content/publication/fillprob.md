@@ -4,7 +4,7 @@ date = 2026-02-06T16:43:24+08:00
 draft = false
 weight = 2
 
-authors = [ "Felix Lokin", "**Fenghui Yu**", ]
+authors = [ "Felix Lokin", "Fenghui Yu", ]
 
 # Publication type.
 # Legend:

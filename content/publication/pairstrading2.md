@@ -4,7 +4,7 @@ date = 2023-02-10T16:43:24+08:00
 draft = false
 weight = 4
 
-authors = ["**Feng-Hui Yu**", "Wai-Ki Ching", "Chu-Fang Wu", "Jia-Wen Gu", ]
+authors = ["Feng-Hui Yu", "Wai-Ki Ching", "Chu-Fang Wu", "Jia-Wen Gu", ]
 
 # Publication type.
 # Legend:

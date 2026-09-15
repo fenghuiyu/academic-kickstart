@@ -4,7 +4,7 @@ date = 2019-03-20T01:23:04+08:00
 draft = false
 weight = 11
 
-authors = ["**Feng-Hui Yu**", "Wai-Ki Ching"]
+authors = ["Feng-Hui Yu", "Wai-Ki Ching"]
 
 # Publication type.
 # Legend:
