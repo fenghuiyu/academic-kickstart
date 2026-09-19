@@ -15,12 +15,12 @@ authors = ["Yaniv Oren", "Viliam Vadocz", "Wiktor Zabka", "Thomas Evers", "Jan R
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["1"]
 
-publication = "Preprint"
+publication = "Preprint, OpenReview"
 #abstract = "An abstract..."
 #url_pdf = "files/pairstrading2.pdf"
-url_custom = [{name = "arxiv", url = "https://arxiv.org/abs/2605.24242"}]
+#url_custom = [{name = "arxiv", url = "https://arxiv.org/abs/2605.24242"}]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
