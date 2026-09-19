@@ -1,10 +1,10 @@
 +++
-title = "Multi-Period Optimal Mean-reverting Spread Trading Strategies with Hidden Markovian Regime Switching"
-date = 2019-03-20T01:23:04+08:00
+title = "Towards Optimal Policy Improvement"
+date = 2026-09-18T16:43:24+08:00
 draft = false
-weight = 11
+weight = 1
 
-authors = ["Feng-Hui Yu", "Wai-Ki Ching"]
+authors = ["Yaniv Oren", "Viliam Vadocz", "Wiktor Zabka", "Thomas Evers", "Jan Robine", "Wendelin Böhmer", "Matthijs T. J. Spaan", "Martha White", "Hendrik Baier", "Fenghui Yu" ]
 
 # Publication type.
 # Legend:
@@ -17,10 +17,10 @@ authors = ["Feng-Hui Yu", "Wai-Ki Ching"]
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Working Paper"
+publication = "Preprint"
 #abstract = "An abstract..."
-#url_pdf = "files/Interacting default intensity with a hidden Markov process.pdf"
-#url_custom = [{name = "Journal Link", url = "https://www.tandfonline.com/doi/abs/10.1080/14697688.2016.1237036?journalCode=rquf20"}]
+#url_pdf = "files/pairstrading2.pdf"
+url_custom = [{name = "arxiv", url = "https://arxiv.org/abs/2605.24242"}]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -36,18 +36,4 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
- 
-
-#date = "2013-07-01"
-image = ""
-image_preview = ""
-math = false
-
-#title = "A publication title, such as title of a paper"
-url_code = ""
-url_dataset = ""
-
-url_project = ""
-url_slides = ""
-url_video = ""
 +++

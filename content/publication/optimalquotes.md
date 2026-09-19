@@ -2,7 +2,7 @@
 title = "Explicit Signal-Adaptive Sequential Optimal Execution Quotes"
 date = 2026-05-22T16:43:24+08:00
 draft = false
-weight = 1
+weight = 2
 
 authors = [ "Fenghui Yu", ]
 

@@ -2,7 +2,7 @@
 title = "Reinforcement Learning-based Hierarchical Planning for Multi-Vehicle Coordination in Mixed Unsignalized Intersections"
 date = 2025-10-15T16:43:24+08:00
 draft = false
-weight = 3
+weight = 4
 
 authors = ["Junhong Dai", "Yue Cui", "Fenghui Yu", "Chao Huang", "Panshuo Li"]
 
@@ -17,7 +17,7 @@ authors = ["Junhong Dai", "Yue Cui", "Fenghui Yu", "Chao Huang", "Panshuo Li"]
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "Preprint"
+publication = "Preprint, revision under IEEE Transactions on Intelligent Transportation Systems"
 #abstract = "An abstract..."
 #url_pdf = "files/pairstrading2.pdf"
 #url_custom = [{name = "arxiv", url = "https://arxiv.org/abs/2403.02572"}]
